@@ -1,0 +1,1 @@
+This repository demonstrates a common COBOL error involving loop termination. The initial code has a faulty condition that can lead to unexpected results.  The solution illustrates the correct way to terminate the loop and avoid potential errors.
